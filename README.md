@@ -44,4 +44,4 @@ python get_sequences.py --input_dir pdbbind_dataset/parsed_rna3db_rnas_whole \
                         --output pdbbind_NL2020_rna.fasta
 ```
 
-There are more functions I used to process RNA; see [my GitHub repository](github link) for details.
+### There are more functions I used to process RNA; see [my GitHub repository](https://github.com/LinTzuTang/rna_tools) for details.
